@@ -22,7 +22,7 @@ Effortless Collaboration: A smooth workflow for small teams 👩‍💻👨‍�
 
 ## 🛠️ Tech Stack
 
-- Backend: Laravel 10 ⚙️
+- Backend: Laravel ⚙️
 
 - Frontend: Blade Templates + TailwindCSS 🌐
 
